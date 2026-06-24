@@ -1,0 +1,11 @@
+{
+  "rows":6500.0,
+  "columns":26.0,
+  "price_increases":3489.0,
+  "price_decreases":2976.0,
+  "total_sales_in_period":192287823.7899999917,
+  "total_margin_in_period":46362051.0300000012,
+  "median_days_observed":127.0,
+  "median_price_variation":0.0098,
+  "median_progressive_margin":-0.1056
+}
