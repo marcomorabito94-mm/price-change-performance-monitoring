@@ -113,16 +113,6 @@ The model helps distinguish cases that look similar at first glance but require 
 ## Data
 
 The dataset in `data/synthetic_price_change_model.csv` is synthetic and contains 6,500 article-level price-change records.
-
-It keeps the same analytical structure as the original output:
-
-- article and price-change identifiers
-- price before and after the change
-- pre-change and post-change quantity, sales and margin
-- N-1 quantity, sales and margin
-- stock coverage indicators
-- effective number of observed days after the price change
-
 No real article IDs, prices, quantities, sales, margins or internal source data are included.
 
 
