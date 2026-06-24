@@ -54,17 +54,18 @@ The original SQL model was not published because it was built on internal data s
 
 ## Dashboard Examples
 
+### Summary of Price Changes
+
+![Summary](assets/dashboard_summary.png)
+
+This view separates the changed-price perimeter from the total business perimeter and shows the incidence of price changes on revenue, quantity and margin.
+
 ### Performance vs Previous Period
 
 ![Performance vs previous period](assets/dashboard_pre_post_performance.png)
 
 This view classifies price changes by the direction of price, quantity and margin after the change. The core KPI is **margin value delta**, supported by revenue and quantity progression.
 
-### Summary of Price Changes
-
-![Summary](assets/dashboard_summary.png)
-
-This view separates the changed-price perimeter from the total business perimeter and shows the incidence of price changes on revenue, quantity and margin.
 
 ### Performance vs N-1
 
