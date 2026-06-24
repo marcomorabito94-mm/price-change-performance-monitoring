@@ -73,7 +73,7 @@ This view classifies price changes by the direction of price, quantity and margi
 
 This view uses the same period from the previous year as benchmark, which is especially useful when retail seasonality makes the immediate previous period less reliable.
 
-## Key Metrics
+## Key Metrics 
 
 - **Variation PV:** price variation vs previous selling price
 - **Delta Margin:** margin value generated after the change minus margin value before the change
