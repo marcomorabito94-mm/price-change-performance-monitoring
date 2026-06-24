@@ -125,9 +125,4 @@ It keeps the same analytical structure as the original output:
 
 No real article IDs, prices, quantities, sales, margins or internal source data are included.
 
-## Repository Description
-
-Suggested GitHub description:
-
-> Retail pricing monitoring case study using synthetic data to evaluate price-change impact on revenue, quantity and margin vs pre-change and N-1 benchmarks.
 
