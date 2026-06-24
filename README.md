@@ -91,8 +91,6 @@ The model helps distinguish cases that look similar at first glance but require 
 - **Price up, quantity down, margin down:** high-risk changes where price elasticity may be too strong
 - **Price down, quantity up, margin up:** potentially successful tactical move
 - **Price down, quantity up, margin down:** volume recovery is not enough to protect value
-- **Pre/post positive but N-1 weak:** possible seasonal distortion in the immediate benchmark
-- **N-1 positive but pre/post weak:** possible short-term noise or transition effect after the change
 
 ## Repo Structure
 
