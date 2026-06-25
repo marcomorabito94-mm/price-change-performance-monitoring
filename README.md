@@ -40,18 +40,6 @@ This compares the post-change period with the same period in the previous year. 
 
 For that reason, the dashboard includes both views: pre/post for immediate control and N-1 for a more seasonally stable interpretation.
 
-## Analytical Approach
-
-The original SQL model was not published because it was built on internal data sources. The logic is reproduced here at a business and data-model level:
-
-- build the perimeter of articles with a valid price change in the last rolling 12 months
-- calculate the effective number of days observed after the price change
-- create a pre-change comparison window with the same duration as the post-change window
-- calculate quantity, sales, sales excluding taxes and margin value before and after the change
-- calculate the same KPIs on the equivalent N-1 period
-- add stock coverage indicators to contextualize performance
-- expose the output table to dashboard views and business filters
-
 ## Dashboard Examples
 
 ### Summary of Price Changes
