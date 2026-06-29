@@ -1,4 +1,4 @@
-# Price Change Performance Monitoring in Retail
+# Price Change Performance Monitoring in Retail 
 
 > Real business case study rebuilt with synthetic data.  
 > The original project was developed on internal retail data; this repository contains fake, synthetic records with the same analytical structure. Dashboard screenshots are included only as demonstration examples, using random filters and periods, and do not disclose real business results.
