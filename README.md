@@ -44,20 +44,20 @@ For that reason, the dashboard includes both views: pre/post for immediate contr
 
 ### Summary of Price Changes
 
-![Summary](assets/dashboard_summary.png)
+![Summary](asset/dashboard_summary.png)
 
 This view separates the changed-price perimeter from the total business perimeter and shows the incidence of price changes on revenue, quantity and margin.
 
 ### Performance vs Previous Period
 
-![Performance vs previous period](assets/dashboard_pre_post_performance.png)
+![Performance vs previous period](asset/dashboard_pre_post_performance.png)
 
 This view classifies price changes by the direction of price, quantity and margin after the change. The core KPI is **margin value delta**, supported by revenue and quantity progression.
 
 
 ### Performance vs N-1
 
-![Performance vs N-1](assets/dashboard_n1_performance.png)
+![Performance vs N-1](asset/dashboard_n1_performance.png)
 
 This view uses the same period from the previous year as benchmark, which is especially useful when retail seasonality makes the immediate previous period less reliable.
 
